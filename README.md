@@ -13,8 +13,8 @@ PhD in Semiconductor Physics, NUST MISIS
 * 👥  
 * 💬
 
-</p>
-<p align="center">
+* 🌍 </p>
+<p align="left">
   <a href="https://scholar.google.com/citations?user=w30pCPoAAAAJ&hl=ru" title="Google Scholar">
     <img src="https://github.com/user-attachments/assets/ed3d4d7c-5ca1-4a6f-9fba-79b84920f6eb" alt="Google Scholar" width="32" height="32">
   </a>
