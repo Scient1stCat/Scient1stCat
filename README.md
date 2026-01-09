@@ -14,9 +14,8 @@ PhD in Semiconductor Physics, NUST MISIS
 * 💬  Ask me about www
 --------------------
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f734368e-b320-433e-9483-dd7dc6872ead" alt="ezgif com-animated-gif-maker" width="50%">
-</p>
+
+![pixelart-ezgif com-resize](https://github.com/user-attachments/assets/a4d508a4-c147-4cae-93b3-7947c0f00560)
 
 
 <p align="left">
