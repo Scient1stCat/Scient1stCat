@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Efim, but you can call me Fima
+![figure_black](https://github.com/user-attachments/assets/bac82c77-2569-4d64-aacd-ff1b2ea94372)## Hi there 👋 my name is Efim, but you can call me Fima
 
 <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/811642a7-8abc-4e4b-9ee5-fd6ca5ee7b69" />
 
@@ -37,11 +37,9 @@ PhD in Semiconductor Physics, NUST MISIS
 &nbsp;
 <a href="https://colab.ws/researchers/R-3AB12-0E6AC-HV43P" title="WS Colab">
   WS Colab 
-  <img src="https://colab.ws/favicon.ico" alt="WS Colab" width="32" height="32">
+  <img src="https://github.com/user-attachments/assets/8195813c-85c8-4072-9548-8e30486fde15" alt="WS Colab" width="32" height="32">
 </a>
 </p>
-
-
 
 --------------------
 
