@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is Efim, but you can call me Fima
 
 <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/811642a7-8abc-4e4b-9ee5-fd6ca5ee7b69" />
 
@@ -7,11 +7,11 @@ Materials Scientist,
 
 PhD in Semiconductor Physics, NUST MISIS
 
-* 🌍  I'm based in Russia
+* 🌍 
 * ✉️  You can contact me at [ev.argunov@misis.ru](mailto:ev.argunov@misis.ru)
-* 🧠  I'm currently learning www
-* 👥  I'm looking to collaborate on www
-* 💬  Ask me about www
+* 🧠  
+* 👥  
+* 💬 
 --------------------
 
 
