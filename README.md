@@ -37,7 +37,7 @@ PhD in Semiconductor Physics, NUST MISIS
 &nbsp;
 <a href="https://colab.ws/researchers/R-3AB12-0E6AC-HV43P" title="WS Colab">
   WS Colab 
-  <img src="https://github.com/user-attachments/assets/8195813c-85c8-4072-9548-8e30486fde15" alt="WS Colab" width="32" height="32">
+  <img src="" alt="WS Colab" width="32" height="32">
 </a>
 </p>
 
