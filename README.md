@@ -4,7 +4,6 @@
 
 Materials Scientist,
 --------------------
-<img width="2048" height="2048" alt="Google_Scholar_logo svg" src="https://github.com/user-attachments/assets/ed3d4d7c-5ca1-4a6f-9fba-79b84920f6eb" />
 
 PhD in Semiconductor Physics, NUST MISIS
 
