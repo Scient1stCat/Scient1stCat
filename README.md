@@ -15,7 +15,7 @@ PhD in Semiconductor Physics, NUST MISIS
 --------------------
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d793c339-cf5a-4516-91cd-de0427780908" alt="ezgif com-animated-gif-maker" width="50%">
+  <img src="https://github.com/user-attachments/assets/f734368e-b320-433e-9483-dd7dc6872ead" alt="ezgif com-animated-gif-maker" width="50%">
 </p>
 
 
