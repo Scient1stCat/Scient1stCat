@@ -2,6 +2,7 @@
 
 <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/811642a7-8abc-4e4b-9ee5-fd6ca5ee7b69" />
 
+Skills: Python / Bash
 <!--
 **Scient1stCat/Scient1stCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
