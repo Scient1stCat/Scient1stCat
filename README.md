@@ -13,23 +13,30 @@ PhD in Semiconductor Physics, NUST MISIS
 * 👥  
 * 💬
 
-* 🌍 </p>
-<p align="left">
-  <a href="https://scholar.google.com/citations?user=w30pCPoAAAAJ&hl=ru" title="Google Scholar">
-    <img src="https://github.com/user-attachments/assets/ed3d4d7c-5ca1-4a6f-9fba-79b84920f6eb" alt="Google Scholar" width="32" height="32">
-  </a>
-  <a href="https://www.researchgate.net/profile/Efim-Argunov" title="ResearchGate">
-    <img src="https://www.researchgate.net/favicon.ico" alt="ResearchGate" width="32" height="32">
-  </a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57427134000" title="Scopus">
-    <img src="https://www.scopus.com/favicon.ico" alt="Scopus" width="32" height="32">
-  </a>
-  <a href="https://www.webofscience.com/wos/author/record/ABF-2074-2020" title="Web of Science">
-    <img src="https://www.webofscience.com/WoS/images/favicon.ico" alt="WoS" width="32" height="32">
-  </a>
+<p align="center">
+🌍 **Links:** 
+<a href="https://scholar.google.com/citations?user=w30pCPoAAAAJ&hl=ru" title="Google Scholar">
+  Google Scholar 
+  <img src="https://github.com/user-attachments/assets/ed3d4d7c-5ca1-4a6f-9fba-79b84920f6eb" alt="Google Scholar" width="32" height="32">
+</a>
+&nbsp;
+<a href="https://www.researchgate.net/profile/Efim-Argunov" title="ResearchGate">
+  ResearchGate 
+  <img src="https://www.researchgate.net/favicon.ico" alt="ResearchGate" width="32" height="32">
+</a>
+&nbsp;
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57427134000" title="Scopus">
+  Scopus 
+  <img src="https://github.com/user-attachments/assets/4f620edc-373f-4d43-aefa-762cd4a23766" alt="Scopus" width="32" height="32">
+</a>
+&nbsp;
+<a href="https://www.webofscience.com/wos/author/record/ABF-2074-2020" title="Web of Science">
+  Web of Science 
+  <img src="https://github.com/user-attachments/assets/745ad5df-8909-412e-95dc-784dbcff1998" alt="WoS" width="32" height="32">
+</a>
 </p>
 
-* 
+
 --------------------
 
 
