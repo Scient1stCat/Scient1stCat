@@ -5,10 +5,10 @@
 
 --------------------
 
-* 🧠  
-* 👥  
-* 💬
-## 🔬 Scientific Software
+## 🔭 Specialization and current research interests:
+Material Science, Synthesis and study of properties of thermoelectric and magnetic material, Solid state physics, Measurements of magnetic and electrophysical properties, Powder X‑ray diffraction, Density Functional Theory, Machine learning. 
+
+## 🔬 Experience with scientific software.
 - **Crystallography & Structure Analysis:**
   - Vesta
   - FullProf
@@ -37,7 +37,6 @@
 
 - **Scientific Publishing:**
   - LaTeX (Overleaf)
-* 
 --------------------
 <p align="center">
 🌍
@@ -82,11 +81,11 @@ Specialization and current research interests: Material Science, Synthesis and s
 </p>
 
 * ✉️  You can contact me at [ev.argunov@misis.ru](mailto:ev.argunov@misis.ru)
+
 <!--
 **Scient1stCat/Scient1stCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
