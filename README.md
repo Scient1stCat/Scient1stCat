@@ -11,11 +11,10 @@
 * 👥  
 * 💬
 # 🔬 Scientific Software
-## 📦 Packages & Tools
-
 - **Crystallography & Structure Analysis:**
   - Vesta
   - FullProf
+  - XCrySDen
   - Match!
 
 - **Visualization & Plotting:**
@@ -24,9 +23,9 @@
 
 - **DFT & Electronic Structure:**
   - Quantum ESPRESSO / VASP
+  - SPR-KKR
   - AKAI-KKR
   - Wien2K
-  - XCrySDen
 
 - **Phonon Calculations:**
   - phonopy
