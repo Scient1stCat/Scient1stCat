@@ -78,7 +78,7 @@ Material Science, Synthesis and study of properties of thermoelectric and magnet
 
 --------------------
 
-## 🔬 Scientific Software
+<!-- ## 🔬 Scientific Software
 
 <div align="center">
 
