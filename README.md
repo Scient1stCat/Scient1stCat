@@ -78,6 +78,26 @@ Material Science, Synthesis and study of properties of thermoelectric and magnet
 
 --------------------
 
+## 🔬 Scientific Software
+
+<div align="center">
+
+| **Crystallography** | **Visualization** | **DFT & Electronic** | **Phonons** | **Thermoelectric** | **Magnetic** | **Publishing** |
+|---------------------|-------------------|----------------------|-------------|--------------------|--------------|----------------|
+| ![Vesta](https://img.shields.io/badge/Vesta-FF6B35?style=flat&logo=vesta&logoColor=white) | ![Origin](https://img.shields.io/badge/OriginPro-FF0000?style=flat&logo=origin&logoColor=white) | ![QE](https://img.shields.io/badge/Quantum_ESPRESO-0080FF?style=flat&logo=quantum-espresso&logoColor=white) ![VASP](https://img.shields.io/badge/VASP-FF6B6B?style=flat&logo=vasp&logoColor=white) | ![Phonopy](https://img.shields.io/badge/Phonopy-00D4AA?style=flat&logo=phonopy&logoColor=white) | ![BoltzTraP](https://img.shields.io/badge/BoltzTraP2-FFD700?style=flat&logo=boltztrap&logoColor=black) | ![Vampire](https://img.shields.io/badge/Vampire-800080?style=flat&logo=vampire&logoColor=white) | ![LaTeX](https://img.shields.io/badge/LaTeX-0080FF?style=flat&logo=latex&logoColor=white) |
+| FullProf<br>XCrySDen<br>Match! | Gnuplot | SPR-KKR<br>AKAI-KKR<br>Wien2K | phono3py | AMSET | | Overleaf |
+
+</div>
+
+<p align="center">
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" height="32" alt="Python"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="32" height="32" alt="Bash"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="32" height="32" alt="VSCode"/></a>
+<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="32" height="32" alt="Linux"/></a>
+<a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="32" height="32" alt="Ubuntu"/></a>
+</p>
+
+
 * ✉️  You can contact me at [ev.argunov@misis.ru](mailto:ev.argunov@misis.ru)
 
 <!--
