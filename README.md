@@ -8,7 +8,7 @@
 ## 🔭 Specialization and current research interests:
 Material Science, Synthesis and study of properties of thermoelectric and magnetic material, Solid state physics, Measurements of magnetic and electrophysical properties, Powder X‑ray diffraction, Density Functional Theory, Machine learning. 
 
-## 🔬 Experience with scientific software.
+## 🔬 Experience with scientific software:
 - **Crystallography & Structure Analysis:**
   - Vesta
   - FullProf
