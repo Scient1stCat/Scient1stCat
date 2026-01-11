@@ -5,14 +5,13 @@
 Materials Scientist,
 --------------------
 
-PhD in Semiconductor Physics, NUST MISIS
-
 * 🌍 
 * ✉️  You can contact me at [ev.argunov@misis.ru](mailto:ev.argunov@misis.ru)
 * 🧠  
 * 👥  
 * 💬
-
+* 
+--------------------
 <p align="center">
 🌍
 <a href="https://scholar.google.com/citations?user=w30pCPoAAAAJ&hl=ru" title="Google Scholar">
