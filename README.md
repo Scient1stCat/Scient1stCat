@@ -10,6 +10,36 @@
 * 🧠  
 * 👥  
 * 💬
+# 🔬 Scientific Software
+## 📦 Packages & Tools
+
+- **Crystallography & Structure Analysis:**
+  - Vesta
+  - FullProf
+  - Match!
+
+- **Visualization & Plotting:**
+  - OriginPro
+  - Gnuplot
+
+- **DFT & Electronic Structure:**
+  - Quantum ESPRESSO / VASP
+  - AKAI-KKR
+  - Wien2K
+  - XCrySDen
+
+- **Phonon Calculations:**
+  - phonopy
+  - phono3py
+
+- **Thermoelectric Properties:**
+  - BoltzTraP2 / AMSET
+
+- **Magnetic Properties:**
+  - Vampire
+
+- **Scientific Publishing:**
+  - LaTeX (Overleaf)
 * 
 --------------------
 <p align="center">
@@ -67,35 +97,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 🔬 Scientific Software
-
-## 📦 Packages & Tools
-
-- **Crystallography & Structure Analysis:**
-  - Vesta
-  - FullProf
-  - Match!
-
-- **Visualization & Plotting:**
-  - OriginPro
-  - Gnuplot
-
-- **DFT & Electronic Structure:**
-  - Quantum ESPRESSO / VASP
-  - AKAI-KKR
-  - Wien2K
-  - XCrySDen
-
-- **Phonon Calculations:**
-  - phonopy
-  - phono3py
-
-- **Thermoelectric Properties:**
-  - BoltzTraP2 / AMSET
-
-- **Magnetic Properties:**
-  - Vampire
-
-- **Scientific Publishing:**
-  - LaTeX (Overleaf)
